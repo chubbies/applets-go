@@ -1,4 +1,4 @@
-module gitlab.bangdao-tech.com/69520/kkk
+module github.com/zhubby/echo-example
 
 go 1.13
 
