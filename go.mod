@@ -1,4 +1,4 @@
-module github.com/zhubby/echo-example
+module github.com/zhubby/applets-go
 
 go 1.13
 
